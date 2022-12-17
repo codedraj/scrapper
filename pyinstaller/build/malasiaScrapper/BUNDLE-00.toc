@@ -1,0 +1,3 @@
+([('malasiaScrapper',
+   '/Users/dheerajrao/Developer/scrapper/pyinstaller/dist/malasiaScrapper',
+   'EXECUTABLE')],)
